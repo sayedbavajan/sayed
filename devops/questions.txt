@@ -1,0 +1,54 @@
+1. what is devops and why need to use that?
+==> DevOps means“development” and “operations” is the combination of practices and tools.
+==> It is designed to increase an organization's ability to deliver applications and services faster 
+        than traditional software development processes.
+
+2. what are the types of sdlc we have?
+     Waterfall Model.
+     Agile Model.
+     Spiral Model.
+     V-Shaped Model.
+      Iterative Model.
+      Big Bang Model.
+
+3. what is the main difference between agile  and waterfall methodology?
+ ==> Agile and Waterfall are two well-known project management methodologies. 
+ ==> Both of them are popular in software development.
+ ==> The main difference is that 
+           Waterfall is a linear system of working that requires the team to complete each project 
+            Agile encourages the team to work simultaneously on different phases of the project.
+    
+4. what is source code management and its uses?
+    Source code management (SCM) is used to track modifications to a source code repository. 
+
+5. what are the branching strategies in git?
+    Build your strategy from these three concepts: 
+           Use feature branches for all new features and bug fixes.
+           Merge feature branches into the main branch using pull requests. 
+            Keep a high quality, up-to-date main branch
+    Branching strategy:
+         Develop branch
+         Bugfix branch
+         Release branch
+         Feature branch
+
+6. what are the repositories in git?
+    Online repo or central repo or remote repo
+     Local repository
+
+7. what is the pull request?
+     Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
+   
+8. what is ssh and http and operations in git?
+     SSH and HTTPS are the two ways to clone a repository from GitHub.
+     SSH or Secure Shell is a network communication protocol that enables two servers to communicate
+       It is encryption format, we can configure password less authentication between 2 Servers.
+          Port no:22  ==> To Create SSH-Key = ssh -Keygen
+     HTTP or hypertext transfer protocol, which is the protocol used to transfer hypertext such as web pages and share data.
+
+9. What is Git?
+    Git is a distributed version control system used for track modifications in scm.
+     It is generally used for source code management in software development.
+
+10. what is git merge command?
+     Merging is Git's way of putting a forked history back together again.
